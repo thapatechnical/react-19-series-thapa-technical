@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Lovely Runner",
+    "id": "lovely-runner",
+    "img_url": "http://localhost:5173/images/lr.webp",
+    "rating": "9.8",
+    "description": "Im Sol travels back in time to prevent the tragic fate of her favorite star, Ryu Sun Jae.",
+    "cast": ["Kim Hye Yoon", "Byeon Woo Seok", "Song Geon Hee"],
+    "genre": ["Romantic Comedy", "Fantasy"],
+    "watch_url": "https://www.viki.com/tv/40466c-lovely-runner"
+  },
+  {
+    "name": "Stranger Things",
+    "id": "stranger-things",
+    "img_url": "http://localhost:5173/images/st.jpg",
+    "rating": "8.7",
+    "description": "A group of young friends witness supernatural forces and secret government exploits.",
+    "cast": ["Winona Ryder", "David Harbour", "Millie Bobby Brown"],
+    "genre": ["Drama", "Fantasy", "Horror"],
+    "watch_url": "https://www.netflix.com/title/80057281"
+  },
+  {
+    "name": "The Witcher",
+    "id": "the-witcher",
+    "img_url": "http://localhost:5173/images/tw.webp",
+    "rating": "8.2",
+    "description": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world.",
+    "cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan"],
+    "genre": ["Action", "Adventure", "Drama"],
+    "watch_url": "https://www.netflix.com/title/80189685"
+  },
+  {
+    "name": "Money Heist",
+    "id": "money-heist",
+    "img_url": "http://localhost:5173/images/mh.jpg",
+    "rating": "8.3",
+    "description": "A criminal mastermind who goes by 'The Professor' plans the biggest heist in recorded history.",
+    "cast": ["Úrsula Corberó", "Álvaro Morte", "Itziar Ituño"],
+    "genre": ["Action", "Crime", "Drama"],
+    "watch_url": "https://www.netflix.com/title/80192098"
+  },
+  {
+    "name": "The Crown",
+    "id": "the-crown",
+    "img_url": "http://localhost:5173/images/tc.webp",
+    "rating": "8.6",
+    "description": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
+    "cast": ["Claire Foy", "Olivia Colman", "Imelda Staunton"],
+    "genre": ["Biography", "Drama", "History"],
+    "watch_url": "https://www.netflix.com/title/80025678"
+  },
+  {
+    "name": "Squid Game",
+    "id": "squid-game",
+    "img_url": "http://localhost:5173/images/sg.webp",
+    "rating": "8.1",
+    "description": "Hundreds of cash-strapped contestants accept an invitation to compete in children's games for a tempting prize, but the stakes are deadly.",
+    "cast": ["Lee Jung-jae", "Park Hae-soo", "Wi Ha-joon"],
+    "genre": ["Action", "Drama", "Mystery"],
+    "watch_url": "https://www.netflix.com/title/81040344"
+  },
+  {
+    "name": "Queen of Tears",
+    "id": "queen-of-tears",
+    "img_url": "http://localhost:5173/images/qot.jpg",
+    "rating": "TBD",
+    "description": "A gripping tale of love, loss, and resilience set against the backdrop of a war-torn nation.",
+    "cast": ["Kim Soo Hyun", "Kim Ji Won"],
+    "genre": ["Drama", "Romance"],
+    "watch_url": "https://www.viki.com/tv/23456789c-queen-of-tears"
+  }
+]
