@@ -81,3 +81,13 @@ If you've extended the spacing scale, you can use the custom classes:
 You can use arbitrary values directly:
 
 ## <div class="py-[3.2rem] px-[1.2rem]">Content</div>
+
+#Why React?
+
+- It's because those are normal variables and React.js doesn't know that it's going to be changed.
+- And that react should respond or update DOM based on that.
+- Those values are already rendered on DOM, there is no way they will be re-rendered.
+- For that React.js provides a function called "useState"
+- This type of function which starts with "use" is called hook.
+- This is a special function which has some features provided by react.js
+- we will learn about other hooks in future.
