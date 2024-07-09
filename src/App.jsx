@@ -1,13 +1,7 @@
-import "./components/EV.css";
-// import { LiftingState } from "./components/LiftStateUp";
-import { ToggleSwitch } from "./projects/ToggleSwitch/ToggleSwtich";
+import { ContactForm } from "./components/hooks/useState/ContactFrom";
 
 //subscribe to Thapa Technical Youtube Channel - https://www.youtube.com/thapatechnical
 
 export const App = () => {
-  return (
-    <section className="container">
-      <ToggleSwitch />
-    </section>
-  );
+  return <ContactForm />;
 };
