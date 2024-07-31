@@ -1,8 +1,7 @@
-// import { UseRef } from "./components/hooks/useRefs";
-import { ForwardRefs } from "./components/hooks/useRefs/ForwardRef";
+import { UseId } from "./components/hooks/UseID";
 
 //subscribe to Thapa Technical Youtube Channel - https://www.youtube.com/thapatechnical
 
 export const App = () => {
-  return <ForwardRefs />;
+  return <UseId />;
 };
