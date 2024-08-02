@@ -1,4 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 /* ? This file contains global CSS styles that apply to the entire application. It allows you to define styles that should be applied globally, affecting all components within the app */
 /* base rule  */
-
-/* states  */
