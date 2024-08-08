@@ -1,13 +1,11 @@
 //subscribe to Thapa Technical Youtube Channel - https://www.youtube.com/thapatechnical
 
-import { DarkLight, ThemeProvider } from "./hooks/ContextAPI/DarkLight";
+import { ReducerComp } from "./hooks/UseReducer";
 
 export const App = () => {
   return (
     <>
-      <ThemeProvider>
-        <DarkLight />
-      </ThemeProvider>
+      <ReducerComp />
     </>
   );
 };
