@@ -1,11 +1,11 @@
 //subscribe to Thapa Technical Youtube Channel - https://www.youtube.com/thapatechnical
 
-import { ReducerComp } from "./hooks/UseReducer";
+import { ReactMemo } from "./hooks/Memo/ReactMemo";
 
 export const App = () => {
   return (
     <>
-      <ReducerComp />
+      <ReactMemo />
     </>
   );
 };
